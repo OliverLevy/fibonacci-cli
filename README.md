@@ -11,3 +11,8 @@ A CLI that returns the fibonacci number at position **n** <br>
 
 1. `npm i`
 2. `npm i -g .` in the root directory
+
+## Usage
+
+`fib 9` <br>
+returns `34`
