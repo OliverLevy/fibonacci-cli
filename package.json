@@ -1,0 +1,19 @@
+{
+  "name": "fib",
+  "version": "1.0.0",
+  "description": "cli tool to return the fibonacci number at position <n>",
+  "main": "bin/index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "bin": {
+    "fib": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "Oliver Levy",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.1.1"
+  }
+}
