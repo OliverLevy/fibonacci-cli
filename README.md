@@ -14,5 +14,5 @@ A CLI that returns the fibonacci number at position **n** <br>
 
 ## Usage
 
-`fib 9` <br>
+In your terminal, run: `fib 9` <br>
 returns `34`
